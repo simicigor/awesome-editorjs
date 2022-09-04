@@ -209,6 +209,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [Slid](https://slid.cc) - Video note-taking tool for online learners.
 * [Unicorn Platform](https://unicornplatform.com/) - Create landing pages and write blogs.
 * [Walkthrough](http://walkthrough.so/) - Write great codelab style tutorials.
+* [Floyk](https://floyk.com/) - Bloging platform for digital people.
 
 ### Open source projects
 
